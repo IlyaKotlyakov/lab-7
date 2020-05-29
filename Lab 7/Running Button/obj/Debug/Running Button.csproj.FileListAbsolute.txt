@@ -1,0 +1,18 @@
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\bin\Debug\Running Button.exe.config
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\bin\Debug\Running Button.exe
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\bin\Debug\Running Button.pdb
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\obj\Debug\Running Button.csprojAssemblyReference.cache
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\obj\Debug\RunningButton.Extention.resources
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\obj\Debug\RunningButton.Properties.Resources.resources
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\obj\Debug\Running Button.csproj.GenerateResource.cache
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\obj\Debug\Running Button.exe
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Running Button\obj\Debug\Running Button.pdb
+E:\labs c# 6 семестр\Lab 7\Running Button\obj\Debug\Running Button.csprojAssemblyReference.cache
+E:\labs c# 6 семестр\Lab 7\Running Button\obj\Debug\RunningButton.Extention.resources
+E:\labs c# 6 семестр\Lab 7\Running Button\obj\Debug\RunningButton.Properties.Resources.resources
+E:\labs c# 6 семестр\Lab 7\Running Button\obj\Debug\Running Button.csproj.GenerateResource.cache
+E:\labs c# 6 семестр\Lab 7\Running Button\obj\Debug\Running Button.exe
+E:\labs c# 6 семестр\Lab 7\Running Button\obj\Debug\Running Button.pdb
+E:\labs c# 6 семестр\Lab 7\Running Button\bin\Debug\Running Button.exe.config
+E:\labs c# 6 семестр\Lab 7\Running Button\bin\Debug\Running Button.exe
+E:\labs c# 6 семестр\Lab 7\Running Button\bin\Debug\Running Button.pdb

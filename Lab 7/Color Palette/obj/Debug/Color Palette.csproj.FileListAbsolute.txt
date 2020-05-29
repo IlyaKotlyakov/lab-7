@@ -1,0 +1,9 @@
+E:\labs c# 6 семестр\Lab 7\Color Palette\bin\Debug\Color Palette.exe.config
+E:\labs c# 6 семестр\Lab 7\Color Palette\bin\Debug\Color Palette.exe
+E:\labs c# 6 семестр\Lab 7\Color Palette\bin\Debug\Color Palette.pdb
+E:\labs c# 6 семестр\Lab 7\Color Palette\obj\Debug\Color Palette.csprojAssemblyReference.cache
+E:\labs c# 6 семестр\Lab 7\Color Palette\obj\Debug\ColorPalette.PaletteForm.resources
+E:\labs c# 6 семестр\Lab 7\Color Palette\obj\Debug\ColorPalette.Properties.Resources.resources
+E:\labs c# 6 семестр\Lab 7\Color Palette\obj\Debug\Color Palette.csproj.GenerateResource.cache
+E:\labs c# 6 семестр\Lab 7\Color Palette\obj\Debug\Color Palette.exe
+E:\labs c# 6 семестр\Lab 7\Color Palette\obj\Debug\Color Palette.pdb
